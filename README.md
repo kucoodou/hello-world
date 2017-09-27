@@ -1,2 +1,5 @@
 # hello-world
-first time test
+
+Hi everybody I'm kucoodou!
+
+Our web is: http://www.xxriji.cn
